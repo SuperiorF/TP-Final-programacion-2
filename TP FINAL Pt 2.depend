@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1491400450 source:f:\programacion\2 cuatrimestre\tp final\tp final pt 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1504958766 source:f:\programacion\2 cuatrimestre\tp final\tp final pt 2\matriz.c
+	"matriz.h"
+
+1507763814 f:\programacion\2 cuatrimestre\tp final\tp final pt 2\matriz.h
+	<string.h>
+
+1508538186 source:f:\programacion\2 cuatrimestre\tp final\tp final pt 2\persona.c
+	"persona.h"
+
+1508460084 f:\programacion\2 cuatrimestre\tp final\tp final pt 2\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"matriz.h"
+	"gotoxy.h"
+
+1491399896 f:\programacion\2 cuatrimestre\tp final\tp final pt 2\gotoxy.h
+
+1508537988 source:f:\programacion\2 cuatrimestre\tp final\tp final pt 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	"matriz.h"
+	"persona.h"
+
+1491400450 source:e:\programacion\2 cuatrimestre\tp final\tp final pt 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1504958766 source:e:\programacion\2 cuatrimestre\tp final\tp final pt 2\matriz.c
+	"matriz.h"
+
+1507763814 e:\programacion\2 cuatrimestre\tp final\tp final pt 2\matriz.h
+	<string.h>
+
+1508537988 source:e:\programacion\2 cuatrimestre\tp final\tp final pt 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+	"matriz.h"
+	"persona.h"
+
+1491399896 e:\programacion\2 cuatrimestre\tp final\tp final pt 2\gotoxy.h
+
+1508460084 e:\programacion\2 cuatrimestre\tp final\tp final pt 2\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"matriz.h"
+	"gotoxy.h"
+
+1508538186 source:e:\programacion\2 cuatrimestre\tp final\tp final pt 2\persona.c
+	"persona.h"
+
